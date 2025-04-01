@@ -1,7 +1,7 @@
 # MCP Log Reader
 
 <div align="center">
-  <img src="assets/mcp_logs.png" alt="MCP Log Reader" width="500"
+  <img src="assets/mcp_logs.png" width="400"
   
   # MCP Log Reader
   
