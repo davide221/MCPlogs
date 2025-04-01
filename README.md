@@ -29,8 +29,8 @@ MCP Log Reader is a specialized MCP server that helps you analyze and debug Mode
 Install directly from GitHub:
 ```bash
 # Clone the repository
-git clone https://github.com/klara-research/mcplogs.git
-cd mcp-log-reader
+git clone https://github.com/klara-research/MCP-Analyzer.git
+cd MCP-Analyzer
 
 # Install dependencies
 npm i
@@ -52,7 +52,7 @@ Add the server to your Claude Desktop configuration:
     "log-reader": {
       "command": "node",
       "args": [
-        "/absolute/path/mcplogs/build"
+        "/absolute/path/MCP-Analyzer/build"
       ]
     }
   }
