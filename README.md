@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="assets/mcp_logs.png" width="400"
-
-  # MCP Log Reader
   
 **MCP Server: Analyze & Debug Model Context Protocol Logs**
   <br>
