@@ -6,10 +6,10 @@
   <br>
   <br>
   <br>
-  🔍 **Read logs from standard locations across all platforms**
+  🔍 <b>Read logs from standard locations across all platforms</b>
   <br>
   <br>
-  🔎 **Filter, paginate, and analyze large log collections**
+  🔎 <b>Filter, paginate, and analyze large log collections</b>
   <br>
   <br>
 </div>
@@ -29,7 +29,7 @@ MCP Log Reader is a specialized MCP server that helps you analyze and debug Mode
 Install directly from GitHub:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-log-reader.git
+git clone https://github.com/klara-research/mcplogs.git
 cd mcp-log-reader
 
 # Install dependencies
@@ -40,9 +40,6 @@ Build and run:
 ```bash
 # Compile TypeScript
 npx tsc
-
-# Run the server
-node dist/server.js
 ```
 
 ## 🔌 Connecting to Claude
