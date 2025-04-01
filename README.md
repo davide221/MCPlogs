@@ -1,9 +1,8 @@
-# MCP Log Reader
+# MCP Server: Analyze & Debug MCP Logs
 
 <div align="center">
   <img src="assets/mcp_logs.png" width="400"
   
-**MCP Server: Analyze & Debug Model Context Protocol Logs**
   <br>
   <br>
   <br>
